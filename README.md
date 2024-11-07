@@ -22,4 +22,4 @@ Sample Output:
 ![img05](./res_images/ProtDiff_SMCDiff_3.JPG)
 
 
-3. **GNN Assignments**: Assignments from Stanford course **Machine Learning with Graphs** regarding edge classification (probability of the existence of an edge) based on node embeddings, node and graph property prediction.
+3. **GNN Assignments**: Assignments from Stanford course **Machine Learning with Graphs (CS224W)** regarding edge classification (probability of the existence of an edge) based on node embeddings, node and graph property prediction.
