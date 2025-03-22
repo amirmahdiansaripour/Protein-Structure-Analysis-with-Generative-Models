@@ -1,6 +1,6 @@
 # Protein-Structure-Analysis-with-Generative-Models
 
-Implementation of recent papers on protein structure analysis and generation using generative models. The content contains:
+Implementation of recent papers on protein structure generation and analysis using generative models. The content includes:
 
 1. **DiffLinker**: ([source](https://www.nature.com/articles/s42256-024-00815-9)) A model designed to predict the linking atoms between two fragments of a molecule. First, the size of the linker (number of atoms connecting fragments) is calculated using a GNN. Then, the linking atoms are randomly sampled (just like random noise in Diffusion Models) and denoised. The output is a .xyz file containing the number of atoms, their types, and positions.
 
